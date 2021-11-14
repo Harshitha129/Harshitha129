@@ -1,4 +1,4 @@
-**Hello, myself **Harshitha**😎**
+Hello, myself  **Harshitha**😎
 - 🧠 I’m interested in hacking,machine learning,web developing.
 - 📚 I’m currently learning data structures.
 - 🧐 Iam an explorer
