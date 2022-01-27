@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Harshitha</h1>
 <h3 align="center">Select* from WORLD where "SOMEONE" like %YOU% --------- > no result</h3>
-<img align="right" alt="Coding" width="250" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif..">
+<img align="right" alt="Coding" width="150" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif..">
 
 - 🌱 I’m currently learning **JAVA**.
 
