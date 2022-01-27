@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **harshitha29503@gmail.com**.
 
-- ⚡ Fun fact **People say nothing is impossible,but i do nothing everday**🤷‍♀️
+- ⚡ Fun fact 🥲 **People say nothing is impossible,but i do nothing everyday**🤷‍♀️
 
 - 📝*The starting point of all achievements is desire*.
 
