@@ -1,6 +1,6 @@
 Hello, myself  **Harshitha**😎
-- 🧠 I’m interested in hacking,machine learning,web developing.
-- 📚 I’m currently learning data structures.
+- 🧠 I’m interested in Ethical Hacking,Data Structures & Algorithms.
+- 📚 I’m currently learning **Java**.
 - 🧐 Iam an explorer
 - 📧 How to reach me harshitha29503@.gmail.com
 - 💬 Ask me about **my self** only 👻.
