@@ -1,16 +1,16 @@
 <h1 align="center">Hi,👋 I'm Harshitha</h1>
-<h3 align="center">Select* from WORLD where "SOMEONE" like %YOU% --------- > no result</h3>
+<h3 align="center">Select* from WORLD where "SOMEONE" like *YOU* </h3>
 <img align="right" alt="Coding" width="200" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif..">
 
 - 🌱 I’m currently learning **JAVA, PYTHON**
 
-- 💬 Ask me about **C, Data Structures & Algorithms**
+- 💬 Ask me about **C, DSA**
 
-- 📫 How to reach me **harshitha29503@gmail.com**
+- 📫 How to reach me:- **harshitha29503@gmail.com**
 
-- 👩‍💻 Pronounce: She/her ✨ 
+- 👩‍💻 Pronounce : **She/her** ✨ 
 
-- ⚡ Fun fact:😅  **I love dancing but i don't know how to do it 😅** 
+- ⚡ Fun fact : **I love dancing but i don't know how to do it** 😅 
 
 <h3 align="center">👩‍💻 I'm in the way of creating my self as my parents feel proud</h3>
 
@@ -32,8 +32,8 @@
 <h3 align="center">let's Connect with me:</h3>
 <hr style="width:50%;text-align:left;margin-left:0">
 <p align="center">
-<a href="https://linkedin.com/in/harshitha chokkapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshitha chokkapu" height="30" width="40" /></a>
-<a href="https://instagram.com/harshitha_03__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshitha_03__" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshitha chokkapu" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" alt="harshitha chokkapu" width="4%" /></a>
+<a href="https://instagram.com/harshitha_03__" target="_blank"><img align="center" src="https://www.designbust.com/download/1006/png/instagram_logo_transparent_background_png512.png" alt="harshitha_03__" width="4%" /></a>
 <a href="https://www.hackerrank.com/harshitha29503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshitha29503" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshitha29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshitha29" height="30" width="40" /></a></p>
 
