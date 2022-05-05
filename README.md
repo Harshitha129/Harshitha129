@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **JAVA, PYTHON**
 
-- 💬 Ask me about **C, DSA**
+- 💬 Ask me about **C, DS&A**
 
 - 📫 How to reach me:- **harshitha29503@gmail.com**
 
