@@ -33,7 +33,7 @@
 <hr style="width:50%;text-align:left;margin-left:0">
 <p align="center">
 <a href="https://linkedin.com/in/harshitha chokkapu" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" alt="harshitha chokkapu" width="4%" /></a>
-<a href="https://instagram.com/harshitha_03__" target="_blank" ><img align="center" src="https://www.designbust.com/download/1006/png/instagram_logo_transparent_background_png512.png" alt="harshitha_03__" width="4%" /></a>
+<a href="https://www.instagram.com/silent__eyes_129/" target="_blank" ><img align="center" src="https://www.designbust.com/download/1006/png/instagram_logo_transparent_background_png512.png" alt="silent__eyes_129" width="4%" /></a>
 <a href="https://www.hackerrank.com/harshitha29503" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshitha29503" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshitha29" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshitha29" height="30" width="40" /></a>
 <a href="https://www.sololearn.com/profile/22705673" target="_blank" ><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" alt="Harshitha" width="4%" /></a></p>
