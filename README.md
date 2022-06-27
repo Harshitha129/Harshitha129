@@ -2,7 +2,7 @@
 <h3 align="center">Select* from WORLD where "SOMEONE" like *YOU* </h3>
 <img align="right" alt="Coding" width="200" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif..">
 
-- 🌱 I’m currently learning **JAVA, PYTHON**
+- 📖 I’m currently learning **JAVA, PYTHON**
 
 - 💬 Ask me about **C, DS&A**
 
@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact : **I love dancing but i don't know how to do it** 😅 
 
-<h3 align="center">👩‍💻 I'm in the way of creating my self as my parents feel proud</h3>
+<h3 align="center">👩‍💻 Coding! Coding! Coding! I don't like it, I avoid... But Coding likes me, I can't Avoid 🔥❤️‍🔥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitha129&label=Profile%20views&color=0e75b6&style=flat" alt="harshitha129" /> </p>
 
