@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact : **I love dancing but i don't know how to do it** 😅 
 
-<h3 align="center">👩‍💻 Coding! Coding! Coding! I don't like it, I avoid... But Coding likes me, I can't Avoid 🔥❤️‍🔥</h3>
+<h2 align="center">👩‍💻 Coding! Coding! Coding! I don't like it, I avoid... But Coding likes me, I can't Avoid 🔥❤️‍🔥</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitha129&label=Profile%20views&color=0e75b6&style=flat" alt="harshitha129" /> </p>
 
