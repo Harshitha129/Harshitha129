@@ -2,13 +2,15 @@
 <h3 align="center">Select* from WORLD where "SOMEONE" like *YOU* </h3>
 <img align="right" alt="Coding" width="200" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif..">
 
-- 📖 I’m currently learning **JAVA, PYTHON**
+- 👩‍💻 I’m currently working on  **Data Analysis**
 
-- 💬 Ask me about **C, DS&A**
+- 🌱 I'm currently learning **Python**, **C** and **DSA**
 
 - 📫 How to reach me:- **harshitha29503@gmail.com**
 
-- 👩‍💻 Pronounce : **She/her** ✨ 
+- 👩‍💻 Pronounce : **She/her** ✨
+
+- 💬 Ask me about **Python** and **Data Analysis**
 
 - ⚡ Fun fact : **I love dancing but i don't know how to do it** 😅 
 
@@ -33,8 +35,8 @@
 <hr style="width:50%;text-align:left;margin-left:0">
 <p align="center">
 <a href="https://linkedin.com/in/harshitha chokkapu" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" alt="harshitha chokkapu" width="5%" /></a>
-<a href="https://www.instagram.com/silent.eyes._03/" target="_blank" ><img align="center" src="https://www.designbust.com/download/1006/png/instagram_logo_transparent_background_png512.png" alt="silent__eyes_129" width="5%" /></a>
+<a href="https://www.instagram.com/silent.eyes129/" target="_blank" ><img align="center" src="https://www.designbust.com/download/1006/png/instagram_logo_transparent_background_png512.png" alt="silent__eyes_129" width="5%" /></a>
 <a href="https://www.hackerrank.com/harshitha29503" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshitha29503" width="5%" /></a>
 <a href="https://www.leetcode.com/harshitha29" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshitha29" width="5%" /></a>
 <a href="https://www.sololearn.com/profile/22705673" target="_blank" ><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" alt="Harshitha" width="5%" /></a></p>
-<h3 align="center">give your support ❤ by starring my repositories</h3>
+<h3 align="center">**give your support ❤ by starring my repositories**</h3>
