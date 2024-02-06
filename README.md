@@ -4,7 +4,7 @@
 
 - 👩‍💻 I’m currently working on  **Data Analysis**
 
-- 🌱 I'm currently learning **Python**, **Power BI**, **Adv Excel**.
+- 🌱 I'm currently learning **Python**, **Power BI**, **Adv Excel**, **SQL**.
 
 - 📫 How to reach me:- **harshitha29503@gmail.com**
 
