@@ -16,7 +16,9 @@
 
 <h2 align="center">Experience is the name everyone gives to their mistakes🫡</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitha129&label=Profile%20views&color=0e75b6&style=flat" alt="harshitha129" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=harshitha129&label=Profile%20views&color=DC143C&style=flat" alt="harshitha129" /> </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=harshitha129&count_private=true&show_icons=true&theme=merko" alt="harshitha129" /></p>
 
