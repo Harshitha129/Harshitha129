@@ -1,4 +1,4 @@
-<h1 align="center">Hello,<span class="wave">👋</span> I'm Harshitha</h1>
+<h1 align="center">Hello,<span class="wave" img src=""></span> I'm Harshitha</h1>
 <h3 align="center">Select* from WORLD where "SOMEONE" like *YOU* </h3>
 <img align="right" alt="Coding" width="200" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif..">
 
