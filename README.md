@@ -14,7 +14,15 @@
 
 - ⚡ Fun fact : **I love dancing but i don't know how to do it** 😅 
 
-<h2 align="center">Experience is the name everyone gives to their mistakes🫡</h2>
+<h4 align="center">Experience is the name everyone gives to their mistakes🫡</h4>
+
+
+### Profile Visitors: ### 
+![Visitor Count](https://profile-counter.glitch.me/harshitha129/count.svg)
+
+
+
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshitha129&label=Profile%20views&color=DC143C&style=flat" alt="harshitha129" /> </p>
