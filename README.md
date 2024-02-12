@@ -1,5 +1,5 @@
-<h1 align="center">Hello,<span class="wave" img src=""></span> I'm Harshitha</h1>
-<h3 align="center">Select* from WORLD where "SOMEONE" like *YOU* </h3>
+<h1 align="center">Hello, I'm Harshitha <img src="https://github.com/Harshitha129/Harshitha129/blob/main/Assets/Hi.gif" width="40px"></h1>
+<h4 align="center">Select* from WORLD where "SOMEONE" like *YOU* </h4>
 <img align="right" alt="Coding" width="200" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif..">
 
 - 👩‍💻 I’m currently working on  **Data Analysis**
@@ -17,21 +17,22 @@
 <h3 align="center">Experience is the name everyone gives to their mistakes🫡</h3>
 
 
-<!--
 ### Profile Visitors: ### 
 ![Visitor Count](https://profile-counter.glitch.me/harshitha129/count.svg)
--->
 
 
 
+<!--
 <img src="https://komarev.com/ghpvc/?username=harshitha129&label=Profile%20views&color=DC143C&style=flat" alt="harshitha129" />
-
+-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=harshitha129&count_private=true&show_icons=true&theme=merko" alt="harshitha129" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHITHA129&show_icons=true&theme=merko" alt="harshitha129" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha129&show_icons=true&theme=merko" alt="harshitha129" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitha129" alt="harshitha129" /></a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=harshitha129&theme=algolia)](https://github.com/harshitha129/github-profile-trophy)
+
 
 <h3 align="left">Streak:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitha129&theme=merko" alt="harshitha129" /></p>
