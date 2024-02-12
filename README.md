@@ -41,7 +41,7 @@
 
 <hr style="width:50%;text-align:left;margin-left:0">
 <p align="center">
-<a href="https://linkedin.com/in/harshitha chokkapu" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" alt="harshitha chokkapu" width="5%" /></a>
+<a href="https://linkedin.com/in/harshitha129" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" alt="harshitha129" width="5%" /></a>
 <a href="https://www.instagram.com/h.a.r.s.h.i.t.h.a_29/" target="_blank" ><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/04/Instagram-logo-modern-paint-splash-social-media-png.png" alt="h.a.r.s.h.i.t.h.a_29" width="5%" /></a>
 <a href="https://www.hackerrank.com/harshitha29503" target="_blank" ><img align="center" src="https://mitaoe.ac.in/assets/images/club/hackerrank.png" alt="harshitha29503" width="5%" /></a>
 <a href="https://www.leetcode.com/harshitha29" target="_blank" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="harshitha29" width="5%" /></a>
