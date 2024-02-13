@@ -37,6 +37,10 @@
 <h3 align="left">Streak:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitha129&theme=merko" alt="harshitha129" /></p>
 
+## My badges ##
+
+<a href="https://www.credly.com/earner/earned?sortBy=updated_at" target="_blank"><img align="center" src="file:///C:/Users/harsh/Downloads/Credly_Logo" alt="harshitha129" width="5%" /></a>
+
 <h3 align="center">let's Connect with me:</h3>
 
 <hr style="width:50%;text-align:left;margin-left:0">
