@@ -38,7 +38,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitha129&theme=merko" alt="harshitha129" /></p>
 
 
-[My Credily Badges](https://www.credly.com/earner/earned?sortBy=updated_at)
+[<img src="Assets/Credly_Logo_white">](https://www.credly.com/earner/earned?sortBy=updated_at)
 
 <h3 align="center">let's Connect with me:</h3>
 
