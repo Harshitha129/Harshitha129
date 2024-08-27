@@ -18,13 +18,12 @@
 
 
 ### Profile Visitors: ### 
-![Visitor Count](https://profile-counter.glitch.me/harshitha129/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/harshitha129/count.svg) -->
 
 
 
-<!--
+
 <img src="https://komarev.com/ghpvc/?username=harshitha129&label=Profile%20views&color=DC143C&style=flat" alt="harshitha129" />
--->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=harshitha129&count_private=true&show_icons=true&theme=merko" alt="harshitha129" /></p>
 
